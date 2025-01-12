@@ -89,7 +89,7 @@ To test the clustering model:
 1. ✅ Ensure the model is built (see Installation & Setup).
 2. ▶️ Run the script for testing:
    ```bash
-   python test_model.py
+   python face_cluster_predictor.py
    ```
 3. 🎥 Choose an input method:
    - 📹 **Webcam** for live testing.
