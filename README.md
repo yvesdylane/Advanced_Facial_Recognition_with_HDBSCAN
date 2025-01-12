@@ -141,7 +141,7 @@ Special thanks to the creators of the [LFW Dataset](http://vis-www.cs.umass.edu/
 
 ## Connect 🚀
 Stay in touch and follow updates:
-- 🌐 GitHub: [[Your GitHub Link Here](https://github.com/yvesdylane/Advanced_Facial_Recognition_with_HDBSCAN)]
+- 🌐 GitHub: [[GitHub Link](https://github.com/yvesdylane/Advanced_Facial_Recognition_with_HDBSCAN)]
 
 Happy clustering! 🎉
 
