@@ -78,7 +78,7 @@ With its capability to handle noise and clusters of varying densities, HDBSCAN m
    ```
 4. 🔨 Build the project:
    ```bash
-   python build_model.py
+   python main.py
    ```
    > **🚫 Note:** Building the model is a prerequisite for testing!
 
